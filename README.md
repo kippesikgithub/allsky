@@ -15,7 +15,8 @@ The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposur
 #### My 2 setups
 
 ##### Permanent Setup
-POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.
+POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
+![image](https://github.com/kippesikgithub/allsky/assets/100353268/a7039a1e-4081-4364-9c04-82b2a39211c5) ![image](https://github.com/kippesikgithub/allsky/assets/100353268/1a26d3c0-2b84-4e7a-8758-cb8889a252b8)
 
 **Hardware**  
 Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterproof  
