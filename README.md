@@ -37,5 +37,7 @@ Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC
 https://github.com/kippesikgithub/allsky/blob/main/proxmox_lxc_setup.md  
 
 **Using a dedicated (POE) IP Camera**
+https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md  
 
 **Using a Android Phone**
+https://github.com/kippesikgithub/allsky/blob/main/android_phone.md  
