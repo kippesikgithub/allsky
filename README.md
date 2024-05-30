@@ -18,5 +18,12 @@ The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposur
 POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.
 
 ###### Hardware
-camera: https://www.amazon.nl/REVODATA-ingebouwde-microfoon-Beveiligings-Bewegingsdetectie/dp/B0C7Z9JJFH/ref=sr_1_46?dib=eyJ2IjoiMSJ9._396fqAZ8VULtihukLmlPksaWepg3sYZMxFYEZGdzu8ixolkg0gGuLhX2rpfc5BB-g11Z3ImE_-yBsaCrwzEWmNFFHyQzrtYIq7pENhk1YrL0-Ms9rOjxWY23yDLb78FiDyuR6KFWlfzZtG9RKXNOn024FMX1hOUBMuvcoK4CDslW1kpV_GXtJc60EGv8uIZSv-z5G044rNMHPZ4SVxjobd5OeXKlLdCnzPsz1bWItsDxc0oATEwV_lp8SzsMALjYx2iIAe3_mM3eWgHpYLSqNKPxpH9y2fvQ1ATri9ykG0.3pxTRkgHoROwZ3Tpmb8yPq1h4-Qs7sIzYkiCF9daplo&dib_tag=se&keywords=IMX291%2BIP%2Bcamera&qid=1715715439&sr=8-46&th=1
+Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterproof  
+Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
+Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
+
 ##### Portable Setup
+Camera: Google Pixel 4XL Android Phone, lens 240 degree  
+Android App: IP Webcam (transform your android phone in a IP camera)  
+Waterproofing: Lunch-Box (Hema)  
+Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
