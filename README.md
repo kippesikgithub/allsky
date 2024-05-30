@@ -17,13 +17,24 @@ The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposur
 ##### Permanent Setup
 POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.
 
-###### Hardware
+**Hardware**
 Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterproof  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
 Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
 
 ##### Portable Setup
+Google Pixel 4XL Android phone, in a lunchbox with a 240 degree lens  
+
+**Hardware**
 Camera: Google Pixel 4XL Android Phone, lens 240 degree  
 Android App: IP Webcam (transform your android phone in a IP camera)  
 Waterproofing: Lunch-Box (Hema)  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
+
+## Howto's
+
+**Proxmox LXC Setup**  
+
+**Using a dedicated (POE) IP Camera**
+
+**Using a Android Phone**
