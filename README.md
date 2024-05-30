@@ -10,10 +10,13 @@ Having a lot of luck, the guy creating the All-sky (https://github.com/aaronwmor
 
 ![image](https://github.com/kippesikgithub/allsky/assets/100353268/19a2e81d-b3ba-4a7b-8c31-dd776e4d48ac)  
 youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU  
-The result of a setup using a Google Pixel 4XL as camera combined with Indi-Allsky
+The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposure) combined with Indi-Allsky
 
 #### My 2 setups
 
 ##### Permanent Setup
+POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.
 
+###### Hardware
+camera: https://www.amazon.nl/REVODATA-ingebouwde-microfoon-Beveiligings-Bewegingsdetectie/dp/B0C7Z9JJFH/ref=sr_1_46?dib=eyJ2IjoiMSJ9._396fqAZ8VULtihukLmlPksaWepg3sYZMxFYEZGdzu8ixolkg0gGuLhX2rpfc5BB-g11Z3ImE_-yBsaCrwzEWmNFFHyQzrtYIq7pENhk1YrL0-Ms9rOjxWY23yDLb78FiDyuR6KFWlfzZtG9RKXNOn024FMX1hOUBMuvcoK4CDslW1kpV_GXtJc60EGv8uIZSv-z5G044rNMHPZ4SVxjobd5OeXKlLdCnzPsz1bWItsDxc0oATEwV_lp8SzsMALjYx2iIAe3_mM3eWgHpYLSqNKPxpH9y2fvQ1ATri9ykG0.3pxTRkgHoROwZ3Tpmb8yPq1h4-Qs7sIzYkiCF9daplo&dib_tag=se&keywords=IMX291%2BIP%2Bcamera&qid=1715715439&sr=8-46&th=1
 ##### Portable Setup
