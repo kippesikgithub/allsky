@@ -28,8 +28,9 @@ Google Pixel 4XL Android phone, in a lunchbox with a 240 degree lens
 **Hardware**  
 Camera: Google Pixel 4XL Android Phone, lens 240 degree  
 Android App: IP Webcam (transform your android phone in a IP camera)  
-Waterproofing: Lunch-Box (Hema)  
+Waterproofing: Lunch-Box (Hema), Dome from old Dahua IP camera  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
+Power: 6mtr cable, 12v 2A Adapter, 12->5V converter, usb-c connector  
 
 ## Howto's
 
