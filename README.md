@@ -26,6 +26,7 @@ Streaming App: Go2RTC (proxmox lxe or Home assistant addon)
 
 ##### Portable Setup
 Google Pixel 4XL Android phone, in a lunchbox with a 240 degree lens  
+esp32 with dallas and dht11 temp/humidity sensors  
 ![image](https://github.com/kippesikgithub/allsky/assets/100353268/74d2eeba-88d7-417a-91f9-b8cf3d988ca3)
 
 **Hardware**  
@@ -34,6 +35,11 @@ Android App: IP Webcam (transform your android phone in a IP camera)
 Waterproofing: Lunch-Box (Hema), Dome from old Dahua IP camera  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
 Power: 6mtr cable, 12v 2A Adapter, 12->5V converter, usb-c connector  
+Esp32 super mini board  
+Dallas temp sensor  
+DHT11 temp/humidity sensor  
+5v Relais for dewheater in dome  
+12 x 30ohm resistors as dew heater  
 
 ## Howto's
 
