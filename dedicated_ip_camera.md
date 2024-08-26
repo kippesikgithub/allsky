@@ -1,5 +1,7 @@
 # Manual using a dedicated (POE) Ip camera with Indi-Allsky
 
+![image](https://github.com/user-attachments/assets/3f4fad02-c0d3-4901-8466-15b713634fee)  
+
 ### Requirements
 Ip Camera providing a JPEG or MJPEG stream (if your cam only provides onvif/rtsp or only a low quality snaphot, create one yourself using Go2RTC)  
 Proxmox Ubuntu 22.04 LXC  
@@ -9,6 +11,7 @@ Indi-Allsky mode: pycurl
 #### Prepare IP Camera
 Since using an IP camera, indi-allsky won't be able to configure the camera. You have to configure the camera yourself in the webinterface provided by the camera. 
 Try to find some settings which will show you most stars in the night, changing the gain/exposure/other settings. More clear skies make it easier to configure the settings.  
+In my experience, you can get a pretty decent image from an IP camera to use with indi-allsky.
 
 #### Install Indi-Allsky
 Using Debian as Linux base before installing indi-allsky.  
@@ -25,7 +28,6 @@ Fill in the camera/stream details in the given area for PyCurl camera.
 
 My setups are only capturing during the night, so switched off day-time capture.  
 ![image](https://github.com/user-attachments/assets/d0ff9402-5dc9-4155-8fae-34e77235364f)  
-
 
 
 #### Go2RTC as streaming
