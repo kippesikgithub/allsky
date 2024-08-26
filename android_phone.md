@@ -21,5 +21,7 @@ Indi-Allsky mode: pycurl
 9) setup the iso and exposure (differs per phone whats the max exposure. for my google pixel 4xl it maxes out at 10s)
 
 #### Install Indi-Allsky
+Using Debian as Linux base before installing indi-allsky.
+Install indi-allsky in 'pycurl' mode, so it makes it accept jpeg streams from your IP camera.
 
 #### Config Indi-Allsky
