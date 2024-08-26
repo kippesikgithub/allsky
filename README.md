@@ -12,7 +12,7 @@ Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaron
 youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU  
 The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposure) combined with Indi-Allsky
 
-#### My 2 setups
+#### My 3 setups
 
 ##### Permanent Setup
 POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
@@ -24,15 +24,15 @@ Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterpro
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
 Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
 
-##### Portable Setup
-Google Pixel 4XL Android phone, in a lunchbox with a 240 degree lens  
+##### ZWO Setup
+ZWO ASI120MC, in a lunchbox with a 160 degree lens  
+Raspberry Pi 3b as INDI server  
 esp32 with dallas and dht11 temp/humidity sensors  
-![image](https://github.com/kippesikgithub/allsky/assets/100353268/74d2eeba-88d7-417a-91f9-b8cf3d988ca3)
+![image](https://github.com/user-attachments/assets/b556038c-473b-4218-ab0a-2ba9196d3759)
 
 **Hardware**  
-Camera: Google Pixel 4XL Android Phone, lens 240 degree  
-Android App: IP Webcam (transform your android phone in a IP camera)  
-Waterproofing: Lunch-Box (Hema), Dome from old Dahua IP camera  
+Camera: ZWO ASI120MC (ubs2 old version), lens 160 degree    
+Waterproofing: Lunch-Box (Hema), Dome from old Samsung IP camera  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
 Power: 6mtr cable, 12v 2A Adapter, 12->5V converter, usb-c connector  
 Esp32 super mini board  
@@ -40,6 +40,21 @@ Dallas temp sensor
 DHT11 temp/humidity sensor  
 5v Relais for dewheater in dome  
 12 x 30ohm resistors as dew heater  
+RPI 3b running astroberry serving the ZWO camera to Proxmox LXC over INDI protocol  
+
+##### Portable Setup
+Google Pixel 4XL Android phone  
+modified, removed battery, powered by powerbank  
+![image](https://github.com/user-attachments/assets/4cf73977-2484-4b5a-916b-df52a283436e)
+
+
+**Hardware**  
+Camera: Google Pixel 4XL Android Phone, lens 240 degree  
+Android App: IP Webcam (transform your android phone in a IP camera)  
+Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
+Powerbank 20000mah  
+No waterproofing  
+  
 
 ## Howto's
 
