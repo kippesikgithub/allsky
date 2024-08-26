@@ -11,7 +11,7 @@ Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaron
 
 ## My 3 setups
 
-##### Permanent Setup
+#### Permanent Setup
 POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
 ![image](https://github.com/user-attachments/assets/3011530c-0e2e-49f3-ae77-6972dfaf5091)
 
@@ -20,7 +20,7 @@ Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterpro
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
 Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
 
-##### ZWO Setup
+#### ZWO Setup
 ZWO ASI120MC, in a lunchbox with a 160 degree lens  
 Raspberry Pi 3b as INDI server  
 esp32 with dallas and dht11 temp/humidity sensors  
@@ -38,7 +38,7 @@ DHT11 temp/humidity sensor
 12 x 30ohm resistors as dew heater  
 RPI 3b running astroberry serving the ZWO camera to Proxmox LXC over INDI protocol  
 
-##### Portable Setup
+#### Portable Setup
 Google Pixel 4XL Android phone  
 modified, removed battery, powered by powerbank  
 ![image](https://github.com/user-attachments/assets/4cf73977-2484-4b5a-916b-df52a283436e)
