@@ -1,5 +1,5 @@
 # Allsky Setups
-Some documentation about my indi-allsky setups for nightlapses, stargazing, northern light, runnig on Proxmox LXE. Using old Android phones and IP camera's to capture the nightsky and all thats happening above us when we are asleep.
+Some documentation about my indi-allsky setups for nightlapses, stargazing, northern light, runnig on Proxmox LXE. Using ZWO camera(s), old Android phones and IP camera's to capture the nightsky and all thats happening above us when we are asleep.
 
 #### Why?
 The night-sky is amazing isn't it? Even here in the Netherlands with a lot of light pollution, there is a lot to see at night in the sky, but we are asleep by then. As a Techie, Data and Automation guy I found some interesting posts on the www of people using specific made Astro camera's combined with Indi-Allsky (https://github.com/aaronwmorris/indi-allsky) software, running on a RPI. Creating Timelapses, Keograms, Panorama's, Startrails and much more, fully automated every night. Since I already own 2 proxmox servers, and have a lot experience using IP camera's, a new idea was born. What if i could use Old phones and IP camera's to do the same, comined with Indi-Allsky.  
