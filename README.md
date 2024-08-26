@@ -28,7 +28,7 @@ Streaming App: Go2RTC (proxmox lxe or Home assistant addon)
 ZWO ASI120MC, in a lunchbox with a 160 degree lens  
 Raspberry Pi 3b as INDI server  
 esp32 with dallas and dht11 temp/humidity sensors  
-![image](https://github.com/user-attachments/assets/b556038c-473b-4218-ab0a-2ba9196d3759)
+![image](https://github.com/user-attachments/assets/fd10b734-76a5-46d2-8cdf-b1f437833547)
 
 **Hardware**  
 Camera: ZWO ASI120MC (ubs2 old version), lens 160 degree    
@@ -46,7 +46,6 @@ RPI 3b running astroberry serving the ZWO camera to Proxmox LXC over INDI protoc
 Google Pixel 4XL Android phone  
 modified, removed battery, powered by powerbank  
 ![image](https://github.com/user-attachments/assets/4cf73977-2484-4b5a-916b-df52a283436e)
-
 
 **Hardware**  
 Camera: Google Pixel 4XL Android Phone, lens 240 degree  
