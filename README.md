@@ -56,10 +56,13 @@ No waterproofing
 **Proxmox LXC Setup**  
 https://github.com/kippesikgithub/allsky/blob/main/proxmox_lxc_setup.md  
 
-**Using a dedicated (POE) IP Camera**  
+**Permanent Setup using a dedicated (POE) IP Camera**  
 https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md  
 
-**Using a Android Phone**  
+**ZWO Setup using a ZWOASI120MC Camera**
+https://github.com/kippesikgithub/allsky/blob/main/zwo_asi120mc.md  
+
+**Portable Setup using a Android Phone**  
 https://github.com/kippesikgithub/allsky/blob/main/android_phone.md  
 
 ## Result Examples
