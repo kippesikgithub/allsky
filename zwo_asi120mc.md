@@ -9,14 +9,20 @@ Proxmox Ubuntu 22.04 LXC
 Indi-Allsky installed in the Proxmox Ubuntu LXE  
 Indi-Allsky mode: INDI  
 
-#### Prepare IP Camera
-Waterproofing: Lunch-Box (Hema), Housing and Dome from old Samsung IP camera  
-Power: 6mtr cable, 12v 2A Adapter, 2x 12->5V converter  
+#### Prepare the ESP32 (optional)
+Since I use Home Assistant (with EspHome) very heavily, I created my own sensors for in the Box and Dome.  
+Esp32 with EspHome config for 1 Temperature sensor in the box, 1 Temperature and Humidity sensor in the Dome, Relais with Dewheater in the Dome.  
+Some Node Red automation flows controlling the dewheater, using the dewpoint.   
 Esp32 super mini board  
 Dallas temp sensor  
 DHT11 temp/humidity sensor  
 5v Relais for dewheater in dome  
 12 x 30ohm resistors as dew heater  
+
+#### Prepare IP Camera and Housing
+Waterproofing: Lunch-Box (Hema), Housing and Dome from old Samsung IP camera  
+Power: Laptop Adapter 18.5v 3.82A, 6mtr cable  
+Buck convertors 2x input:8-24 -> output:5V 5A converter  
 
 #### Prepare the RPI
 I use this method because my ZWO ASI120MC is not really well supported by linux. 
