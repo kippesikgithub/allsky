@@ -72,9 +72,17 @@ youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU
 Setup: ZWO Setup  
 ![image](https://github.com/user-attachments/assets/cd24eb3e-8e6b-45d1-83f0-d1746737f859)  
 
+#### ZWOASI120MC Cloudy Night (25-08-2024)
+Setup: ZWO Setup  
+![image](https://github.com/user-attachments/assets/6c848566-66f2-40b0-aa98-54e42f440991)  
+
 #### Poe IP Camera Clear Night (11-08-2024)
 Setup: Permanent Setup  
 ![image](https://github.com/user-attachments/assets/21c08c43-aa07-46d8-b1a4-7137a249f641)  
+
+#### Poe IP Camera Cloudy Night (24-08-2024)
+Setup: Permanent Setup  
+![image](https://github.com/user-attachments/assets/c42f3b9d-35e4-4c88-bc31-b5ddf5631e3b)  
 
 ####  Star Trail Comparison (11-08-2024)
 Setup: Poe IP Camera vs ZWOASI120MC  
