@@ -58,7 +58,7 @@ https://github.com/kippesikgithub/allsky/blob/main/proxmox_lxc_setup.md
 **Permanent Setup using a dedicated (POE) IP Camera**  
 https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md  
 
-**ZWO Setup using a ZWOASI120MC Camera**
+**ZWO Setup using a ZWOASI120MC Camera**  
 https://github.com/kippesikgithub/allsky/blob/main/zwo_asi120mc.md  
 
 **Portable Setup using a Android Phone**  
