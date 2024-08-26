@@ -11,7 +11,10 @@ Indi-Allsky mode: pycurl
 #### Prepare IP Camera
 Since using an IP camera, indi-allsky won't be able to configure the camera. You have to configure the camera yourself in the webinterface provided by the camera. 
 Try to find some settings which will show you most stars in the night, changing the gain/exposure/other settings. More clear skies make it easier to configure the settings.  
-In my experience, you can get a pretty decent image from an IP camera to use with indi-allsky.
+In my experience, you can get a pretty decent image from an IP camera to use with indi-allsky.  
+Settings I use with the IP camera  
+![image](https://github.com/user-attachments/assets/abd09b96-88c3-4152-a4eb-f62a9fddf93c)  
+
 
 #### Install Indi-Allsky
 Using Debian as Linux base before installing indi-allsky.  
