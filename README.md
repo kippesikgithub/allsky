@@ -47,7 +47,7 @@ modified, removed battery, powered by powerbank
 Camera: Google Pixel 4XL Android Phone, lens 240 degree  
 Android App: IP Webcam (transform your android phone in a IP camera)  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
-Powerbank 20000mah  
+Direct usb power or Powerbank 20000mah  
 No waterproofing  
   
 
