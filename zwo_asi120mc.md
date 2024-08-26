@@ -19,22 +19,27 @@ DHT11 temp/humidity sensor
 12 x 30ohm resistors as dew heater  
 
 #### Prepare the RPI
-I use this method because my ZWO ASI120MC is not really well supported by linux. But running it on a RPI3B using astroberry and ekos to expose an INDI server, works very well. This solution can also be used with other ZWO cams, and is basically using the RPI to get your ZWO cam on your wifi network and controll them.  
-install Astroberry on your RPI  
-start KStars  
-start EKOS  
-in EKOS configure your camera  
-get the IP address and port of the INDI server on the RPI (in EKOS)  
+I use this method because my ZWO ASI120MC is not really well supported by linux. 
+But running it on a RPI3B using astroberry and ekos to expose an INDI server, works very well.  
+This solution can also be used with other ZWO cams, and is basically using the RPI to get your ZWO cam on your wifi network and controll them.  
 
+1) Install Astroberry on your RPI  
+2) Start KStars  
+3) Start EKOS  
+4) In EKOS configure your camera
+5) Click the 'Play' button in EKOS
+6) Click 'Connect' in EKOS  
+7) get the IP address and port of the INDI server on the RPI (in EKOS)  
+Now you can reach your camera over IP and Port in your network, and controll them like they are locally connected  
 
 #### Install Indi-Allsky
 Using Debian as Linux base before installing indi-allsky.  
 Install indi-allsky in 'INDI' mode, so it makes it accept INDI cameras from remote RPI.  
-![image](https://github.com/user-attachments/assets/0cf1252d-3787-4bb1-973d-c98bef9f21a0)  
 
 #### Config Indi-Allsky
 For configuring indi-allsky with a ZWO camera that is running on a remote RPI we need to add the INDI details from the RPI.  
-Fill in the camera/stream details in the given area for the INDI server. the INDI server is running on a rpi 3b in the box.  
+Fill in the camera/stream details in the given area for the INDI server. The INDI server is running on a rpi 3b in the box, so you fill in the IP and Port of the RPI.  
+![image](https://github.com/user-attachments/assets/73af61cc-7f57-4156-817e-2823b468934d)
 
 My setups are only capturing during the night, so switched off day-time capture.  
 ![image](https://github.com/user-attachments/assets/d0ff9402-5dc9-4155-8fae-34e77235364f)  
