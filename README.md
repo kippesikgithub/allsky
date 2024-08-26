@@ -76,6 +76,10 @@ Setup: ZWO Setup
 Setup: Permanent Setup  
 ![image](https://github.com/user-attachments/assets/21c08c43-aa07-46d8-b1a4-7137a249f641)  
 
+####  Star Trail Comparison (11-08-2024)
+Setup: Poe IP Camera vs ZWOASI120MC  
+![image](https://github.com/user-attachments/assets/22e4ed0d-395c-4bb7-b52c-ea3bfc8e46be)  
+
 
 
 
