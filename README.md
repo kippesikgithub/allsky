@@ -8,9 +8,6 @@ Some more details on the proces I had to go through, for creating a 1-2 minute t
 
 Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaronwmorris/indi-allsky) software, created a way to connect to the JPEG stream of a network/IP camera. After some searching around, finding out there are not that many people using this kind of setup, I found a way to make it all work. And the best part, I finished finetuning the setup, just a couple of nights before the Northern lights storm (10-05-2024), and captured great content! Because there is so little information about this kind of setup, I created this documentation, as a guide.  
 
-![image](https://github.com/kippesikgithub/allsky/assets/100353268/19a2e81d-b3ba-4a7b-8c31-dd776e4d48ac)  
-youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU  
-The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposure) combined with Indi-Allsky
 
 #### My 3 setups
 
@@ -64,3 +61,21 @@ https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md
 
 **Using a Android Phone**  
 https://github.com/kippesikgithub/allsky/blob/main/android_phone.md  
+
+## Result Exmaples
+#### Google Pixel 4XL Nothern Lights storm (10-05-2024)
+Setup: Portable Setup  
+![image](https://github.com/kippesikgithub/allsky/assets/100353268/19a2e81d-b3ba-4a7b-8c31-dd776e4d48ac)  
+youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU  
+
+#### ZWOASI120MC Clear Night (11-08-2024)
+Setup: ZWO Setup  
+![image](https://github.com/user-attachments/assets/cd24eb3e-8e6b-45d1-83f0-d1746737f859)  
+
+#### Poe IP Camera Clear Night (11-08-2024)
+Setup: Permanent Setup  
+![image](https://github.com/user-attachments/assets/21c08c43-aa07-46d8-b1a4-7137a249f641)  
+
+
+
+
