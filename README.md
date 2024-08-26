@@ -16,8 +16,7 @@ The result of a setup using a Google Pixel 4XL as camera (ISO 800, 10sec exposur
 
 ##### Permanent Setup
 POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
-![image](https://github.com/kippesikgithub/allsky/assets/100353268/a7039a1e-4081-4364-9c04-82b2a39211c5)  
-![image](https://github.com/kippesikgithub/allsky/assets/100353268/1a26d3c0-2b84-4e7a-8758-cb8889a252b8)
+![image](https://github.com/user-attachments/assets/3011530c-0e2e-49f3-ae77-6972dfaf5091)
 
 **Hardware**  
 Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterproof  
@@ -28,7 +27,7 @@ Streaming App: Go2RTC (proxmox lxe or Home assistant addon)
 ZWO ASI120MC, in a lunchbox with a 160 degree lens  
 Raspberry Pi 3b as INDI server  
 esp32 with dallas and dht11 temp/humidity sensors  
-![image](https://github.com/user-attachments/assets/fd10b734-76a5-46d2-8cdf-b1f437833547)
+![image](https://github.com/user-attachments/assets/275de39e-613f-4cf0-a3fc-bca714b5cbd0)
 
 **Hardware**  
 Camera: ZWO ASI120MC (ubs2 old version), lens 160 degree    
