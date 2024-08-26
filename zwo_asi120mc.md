@@ -20,9 +20,8 @@ DHT11 temp/humidity sensor
 
 #### Install Indi-Allsky
 Using Debian as Linux base before installing indi-allsky.  
-Install indi-allsky in 'pycurl' mode, so it makes it accept jpeg streams from your IP camera.  
-![image](https://github.com/user-attachments/assets/df21f0ec-df88-4475-a254-1e6629ee61d8)  
-
+Install indi-allsky in 'INDI' mode, so it makes it accept INDI cameras from remote RPI.  
+![image](https://github.com/user-attachments/assets/0cf1252d-3787-4bb1-973d-c98bef9f21a0)  
 
 #### Config Indi-Allsky
 For configuring indi-allsky with an IP camera, we have to accept that the exposure and other settings are controlled by the camera itself. Using a JPEG (image driven) stream from the camera is the only way. 
