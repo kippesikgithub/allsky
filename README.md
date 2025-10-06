@@ -6,11 +6,11 @@ The night-sky is amazing isn't it? Even here in the Netherlands with a lot of li
 
 Some more details on the proces I had to go through, for creating a 1-2 minute timelapse of the night sky: Manually setting up an Old android phone in our garden, go through all the settings manually on the phone in the 'Deepsky' app (https://www.deepskycamera.de/), and offcourse connect the phone to a large powerbank, transferring (tons of) pictures manually and creating night-timelapses manually the morning after, thansferring back the video to phone and server manually. As you can imagine, this costed a lot of time and effort, resulting in just a short video.  
 
-Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaronwmorris/indi-allsky) software, created a way to connect to the JPEG stream of a network/IP camera. After some searching around, finding out there are not that many people using this kind of setup, I found a way to make it all work. And the best part, I finished finetuning the setup, just a couple of nights before the Northern lights storm (10-05-2024), and captured great content! Because there is so little information about this kind of setup, I created this documentation, as a guide. Since writing this documentation I also own an old ZWO ASI 120MC camera (old usb2 version), but didnt want to pull a long usb cord, i'm using a RPI as INDI server in between. I definitely will upgrade to a better ZWO camera when I find one for a suitable price.  
+Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaronwmorris/indi-allsky) software, created a way to connect to the JPEG stream of a network/IP camera. After some searching around, finding out there are not that many people using this kind of setup, I found a way to make it all work. And the best part, I finished finetuning the setup, just a couple of nights before the Northern lights storm (10-05-2024), and captured great content! Because there is so little information about this kind of setup, I created this documentation, as a guide. Since writing this documentation I also own a PlayerOne Mars-c 2 camera, using an IMX662 image sensor.  
 
 ## My 3 setups
 
-#### Permanent Setup
+#### Old Permanent Setup 
 POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
 ![image](https://github.com/user-attachments/assets/3011530c-0e2e-49f3-ae77-6972dfaf5091)
 
@@ -19,11 +19,10 @@ Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterpro
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
 Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
 
-#### ZWO Setup
-ZWO ASI120MC, in a lunchbox with a 160 degree lens  
-Raspberry Pi 3b as INDI server  
-esp32 with dallas and dht11 temp/humidity sensors  
-![image](https://github.com/user-attachments/assets/275de39e-613f-4cf0-a3fc-bca714b5cbd0)
+#### PlayerOne Mars-c 2
+PlayerOne Mars-c 2 USB3 camera, in a lunchbox with a 160 degree ZWO lens  
+<img width="1836" height="1144" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
+
 
 **Hardware**  
 Camera: ZWO ASI120MC (ubs2 old version), lens 160 degree    
