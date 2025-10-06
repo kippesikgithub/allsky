@@ -12,9 +12,10 @@ Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaron
 
 #### PlayerOne Mars-c 2
 PlayerOne Mars-c 2 USB3 camera, in a lunchbox with a 160 degree ZWO lens  
-<img width="1836" height="1144" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
-<img width="892" height="936" alt="image" src="https://github.com/user-attachments/assets/f81ccd1e-34d7-45f7-a535-0158e398f40e" />
+https://player-one-astronomy.com/product/mars-c-ii-usb3-0-color-camera-imx662/  
 
+<img width="918" height="572" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
+<img width="446" height="468" alt="image" src="https://github.com/user-attachments/assets/f81ccd1e-34d7-45f7-a535-0158e398f40e" />
 
 **Hardware**  
 Camera: PlayerOne Mars-c 2, ZWO lens 160 degree    
