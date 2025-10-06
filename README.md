@@ -13,6 +13,8 @@ Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaron
 #### PlayerOne Mars-c 2
 PlayerOne Mars-c 2 USB3 camera, in a lunchbox with a 160 degree ZWO lens  
 <img width="1836" height="1144" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
+<img width="892" height="936" alt="image" src="https://github.com/user-attachments/assets/f81ccd1e-34d7-45f7-a535-0158e398f40e" />
+
 
 **Hardware**  
 Camera: PlayerOne Mars-c 2, ZWO lens 160 degree    
@@ -50,9 +52,6 @@ https://github.com/kippesikgithub/allsky/blob/main/proxmox_lxc_setup.md
 **Permanent Setup using a dedicated (POE) IP Camera**  
 https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md  
 
-**ZWO Setup using a ZWOASI120MC Camera**  
-https://github.com/kippesikgithub/allsky/blob/main/zwo_asi120mc.md  
-
 **Portable Setup using a Android Phone**  
 https://github.com/kippesikgithub/allsky/blob/main/android_phone.md  
 
@@ -62,14 +61,6 @@ Setup: Portable Setup
 ![image](https://github.com/kippesikgithub/allsky/assets/100353268/19a2e81d-b3ba-4a7b-8c31-dd776e4d48ac)  
 youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU  
 
-#### ZWOASI120MC Clear Night (11-08-2024)
-Setup: ZWO Setup  
-![image](https://github.com/user-attachments/assets/cd24eb3e-8e6b-45d1-83f0-d1746737f859)  
-
-#### ZWOASI120MC Cloudy Night (25-08-2024)
-Setup: ZWO Setup  
-![image](https://github.com/user-attachments/assets/6c848566-66f2-40b0-aa98-54e42f440991)  
-
 #### Poe IP Camera Clear Night (11-08-2024)
 Setup: Permanent Setup  
 ![image](https://github.com/user-attachments/assets/21c08c43-aa07-46d8-b1a4-7137a249f641)  
@@ -78,9 +69,6 @@ Setup: Permanent Setup
 Setup: Permanent Setup  
 ![image](https://github.com/user-attachments/assets/c42f3b9d-35e4-4c88-bc31-b5ddf5631e3b)  
 
-####  Star Trail Comparison (11-08-2024)
-Setup: Poe IP Camera vs ZWOASI120MC  
-![image](https://github.com/user-attachments/assets/22e4ed0d-395c-4bb7-b52c-ea3bfc8e46be)  
 
 
 
