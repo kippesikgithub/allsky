@@ -10,8 +10,9 @@ Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaron
 
 ## My 3 setups
 
-#### PlayerOne Mars-c 2
+#### Permanent Setup
 PlayerOne Mars-c 2 USB3 camera, dome-less and in a lunchbox with a 160 degree ZWO lens  
+Camera is placed on the roof of our house  
 https://player-one-astronomy.com/product/mars-c-ii-usb3-0-color-camera-imx662/  
 
 <img width="918" height="572" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
@@ -57,17 +58,21 @@ https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md
 https://github.com/kippesikgithub/allsky/blob/main/android_phone.md  
 
 ## Result Examples
+#### PlayerOne Mars-c 2 camera (IMX662)  
+Setup: Permanent Setup
+youtube link: https://www.youtube.com/watch?v=nANrTtHyu7w
+
 #### Google Pixel 4XL Nothern Lights storm (10-05-2024)
 Setup: Portable Setup  
 ![image](https://github.com/kippesikgithub/allsky/assets/100353268/19a2e81d-b3ba-4a7b-8c31-dd776e4d48ac)  
 youtube link: https://www.youtube.com/watch?v=eyGsOYiEsdU  
 
 #### Poe IP Camera Clear Night (11-08-2024)
-Setup: Permanent Setup  
+Setup: Old Permanent Setup  
 ![image](https://github.com/user-attachments/assets/21c08c43-aa07-46d8-b1a4-7137a249f641)  
 
 #### Poe IP Camera Cloudy Night (24-08-2024)
-Setup: Permanent Setup  
+Setup: Old Permanent Setup  
 ![image](https://github.com/user-attachments/assets/c42f3b9d-35e4-4c88-bc31-b5ddf5631e3b)  
 
 
