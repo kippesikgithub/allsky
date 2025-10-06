@@ -10,31 +10,15 @@ Having a lot of luck, the guy creating the Indi-allsky (https://github.com/aaron
 
 ## My 3 setups
 
-#### Old Permanent Setup 
-POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
-![image](https://github.com/user-attachments/assets/3011530c-0e2e-49f3-ae77-6972dfaf5091)
-
-**Hardware**  
-Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterproof  
-Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
-Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
-
 #### PlayerOne Mars-c 2
 PlayerOne Mars-c 2 USB3 camera, in a lunchbox with a 160 degree ZWO lens  
 <img width="1836" height="1144" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
 
-
 **Hardware**  
-Camera: ZWO ASI120MC (ubs2 old version), lens 160 degree    
-Waterproofing: Lunch-Box (Hema), Dome from old Samsung IP camera  
+Camera: PlayerOne Mars-c 2, ZWO lens 160 degree    
+Waterproofing: Lunch-Box (Action)  
 Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
-Power: 6mtr cable, 12v 2A Adapter, 12->5V converter, usb-c connector  
-Esp32 super mini board  
-Dallas temp sensor  
-DHT11 temp/humidity sensor  
-5v Relais for dewheater in dome  
-12 x 30ohm resistors as dew heater  
-RPI 3b running astroberry serving the ZWO camera to Proxmox LXC over INDI protocol  
+Power: 10meter USB3 cable (with power injection)  
 
 #### Portable Setup
 Google Pixel 4XL Android phone  
@@ -48,6 +32,15 @@ Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC
 Direct usb power or Powerbank 20000mah  
 No waterproofing  
   
+#### Old Permanent Setup 
+POE IP camera mounted outside in our backyard, pointed upwards (offcourse), with a 180 degree lens.  
+![image](https://github.com/user-attachments/assets/3011530c-0e2e-49f3-ae77-6972dfaf5091)
+
+**Hardware**  
+Camera: REVODATA 5MP Mini Fisheye POE IP Camera, lens 1.7mm 180 degree, waterproof  
+Software: Indy Allsky in a Ubuntu 22.04 Proxmox LXC  
+Streaming App: Go2RTC (proxmox lxe or Home assistant addon)  
+
 
 ## Howto's
 
