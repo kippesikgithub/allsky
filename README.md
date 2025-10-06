@@ -51,7 +51,10 @@ Streaming App: Go2RTC (proxmox lxe or Home assistant addon)
 **Proxmox LXC Setup**  
 https://github.com/kippesikgithub/allsky/blob/main/proxmox_lxc_setup.md  
 
-**Permanent Setup using a dedicated (POE) IP Camera**  
+**Permanent Setup PlayerOne Mars-c 2 Camera**
+
+
+**Old Permanent Setup using a dedicated (POE) IP Camera**  
 https://github.com/kippesikgithub/allsky/blob/main/dedicated_ip_camera.md  
 
 **Portable Setup using a Android Phone**  
