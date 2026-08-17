@@ -18,6 +18,9 @@ https://player-one-astronomy.com/product/mars-c-ii-usb3-0-color-camera-imx662/
 <img width="918" height="572" alt="image" src="https://github.com/user-attachments/assets/00f98983-9f97-436d-8518-dcf5b182af84" />
 <img width="446" height="468" alt="image" src="https://github.com/user-attachments/assets/f81ccd1e-34d7-45f7-a535-0158e398f40e" />
 
+**YouTube**
+https://youtube.com/@allsky_leidschendam?si=ZXTZ-qsKuG3iFFiy
+  
 **Hardware**  
 Camera: PlayerOne Mars-c 2, ZWO lens 160 degree    
 Waterproofing: Lunch-Box (Action)  
